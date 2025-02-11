@@ -2,6 +2,8 @@
 
 ## Descriere
 Acest script permite **adăugarea automată a utilizatorilor** într-un canal Telegram folosind biblioteca **Telethon**.
+# Screenshot
+![Screenshot](demo2.png)
 
 ## Funcționalități
 - **Autentificare prin API ID și API Hash**.
